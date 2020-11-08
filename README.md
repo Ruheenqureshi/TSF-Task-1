@@ -11,3 +11,10 @@ K-means clustering using Unsupervised ML
 From the given ‘Iris’ dataset, predict the optimum number of clusters and
 represent it visually.
 have implemented the codes on Python Jupyter Notebook.
+
+Task #3:
+Exploratory Data Analysis - RETAIL
+To perform 'Exploratory Data Analysis' on dataset 'SampleSuperstore'.
+Trying to find out the weak areas where you can work to make more profit.
+Deriving all the business problem by exploring the data.
+
